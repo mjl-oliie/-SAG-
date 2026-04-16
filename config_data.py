@@ -30,3 +30,5 @@ session_config = {
         "session_id": "default_user"   # 改成通用名称，不要用 user_001
     }
 }
+# ----- Chroma 向量库配置 -----
+collection_name = "rag_knowledge_base"
